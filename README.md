@@ -82,7 +82,7 @@ This end-to-end project pipeline in Python includes:
 - **Parenthood structurally limits spending** - Clusters 0, 1, and 3 are all parent-heavy and all spend a fraction of Cluster 2. This is a household economics constraint, not a marketing problem.
 - **High web visits without purchases signals price sensitivity, not disengagement** - Clusters 1 and 3 have the highest web visits per month but the lowest spend. They need savings-forward messaging at the point of browsing, not re-engagement campaigns.
 - **Campaign responsiveness is concentrated in Cluster 2** - they accept nearly 4x more promotions than any other group. Blanket campaigns are largely wasted on the remaining three segments.
-- **Recency is not a useful targeting signal** — all four clusters return at nearly the same cadence (around 49 days). Cluster membership is a far richer variable for campaign planning than recency alone.
+- **Recency is not a useful targeting signal** - all four clusters return at nearly the same cadence (around 49 days). Cluster membership is a far richer variable for campaign planning than recency alone.
 
 ---
 
