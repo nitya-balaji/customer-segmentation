@@ -1,4 +1,4 @@
-# Customer Segmentation for Targeted Marketing Strategy - Unsupervised ML Project
+# Customer Segmentation for Targeted Marketing - Unsupervised ML Project
 
 ## Project Overview
 
