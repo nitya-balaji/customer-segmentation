@@ -1,4 +1,4 @@
-# Customer Segmentation for Targeted Marketing - ML Project
+# Customer Segmentation for Targeted Marketing ML Project
 
 ## Project Overview
 
