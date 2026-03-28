@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project applies unsupervised machine learning to a grocery store's customer dataset to identify distinct behavioural and demographic segments. Rather than relying on broad, untargeted campaigns, the segmentation allows the business to tailor its marketing strategy to each customer group, improving relevance and driving higher ROI.
+This project applies unsupervised machine learning to a grocery store's customer base to identify distinct behavioural and demographic segments. Rather than relying on broad, untargeted campaigns, the segmentation allows the business to tailor its marketing strategy to each customer group, improving relevance and driving higher ROI.
 
 This end-to-end project pipeline in Python includes:
 
