@@ -78,18 +78,18 @@ This end-to-end project pipeline in Python includes:
 
 ## Strategic Takeaways
 
-- **Spend is driven by income and household composition, not age** - Cluster 2 is not the youngest, yet spends 10x more than the lowest clusters. Disposable income and the absence of children are the real predictors.
-- **Parenthood structurally limits spending** - Clusters 0, 1, and 3 are all parent-heavy and all spend a fraction of Cluster 2. This is a household economics constraint, not a marketing problem.
-- **High web visits without purchases signals price sensitivity, not disengagement** - Clusters 1 and 3 have the highest web visits per month but the lowest spend. They need savings-forward messaging at the point of browsing, not re-engagement campaigns.
+- **Spend is driven by income and household composition, not age** - Cluster 2 is not the youngest, yet spends 10x more than the lowest clusters. Disposable income and the absence of children are the real predictors
+- **Parenthood structurally limits spending** - Clusters 0, 1, and 3 are all parent-heavy and all spend a fraction of Cluster 2. This is a household economics constraint, not a marketing problem
+- **High web visits without purchases signals price sensitivity, not disengagement** - Clusters 1 and 3 have the highest web visits per month but the lowest spend. They need savings-forward messaging at the point of browsing, not re-engagement campaigns
 - **Campaign responsiveness is concentrated in Cluster 2** - they accept nearly 4x more promotions than any other group. Blanket campaigns are largely wasted on the remaining three segments.
-- **Recency is not a useful targeting signal** - all four clusters return at nearly the same cadence (around 49 days). Cluster membership is a far richer variable for campaign planning than recency alone.
+- **Recency is not a useful targeting signal** - all four clusters return at nearly the same cadence (around 49 days). Cluster membership is a far richer variable for campaign planning than recency alone
 
 ---
 
 ## Business Recommendations
 
-1. **Prioritise Cluster 2** for premium campaigns, catalog investment, and in-store experiences. This is where marketing spend returns the most.
-2. **Shift Clusters 1 and 3 to low-cost digital tactics** such as deal banners, cart recovery emails, and value-led flyers rather than broad campaign spend.
-3. **Use Cluster 0 as an upsell target.** They have the income and shopping habits to spend more. Loyalty rewards and premium product recommendations are a realistic path to a higher basket size.
-4. **Stop distributing catalogs to Clusters 1 and 3.** Catalog purchase rates are near zero for these segments. Reallocate that budget toward digital retargeting for them and more catalog investment for Cluster 2.
-5. **Retire recency as a primary targeting signal** and replace it with cluster membership for all future campaign planning.
+1. **Prioritise Cluster 2** for premium campaigns, catalog investment, and in-store experiences. This is where marketing spend returns the most
+2. **Shift Clusters 1 and 3 to low-cost digital tactics** such as deal banners, cart recovery emails, and value-led flyers rather than broad campaign spend
+3. **Use Cluster 0 as an upsell target** They have the income and shopping habits to spend more. Loyalty rewards and premium product recommendations are a realistic path to a higher basket size
+4. **Stop distributing catalogs to Clusters 1 and 3.** Catalog purchase rates are near zero for these segments. Reallocate that budget toward digital retargeting for them and more catalog investment for Cluster 2
+5. **Retire recency as a primary targeting signal** and replace it with cluster membership for all future campaign planning
